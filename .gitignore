@@ -1,0 +1,7 @@
+# Local relay runtime state. Keep only .agent-comms/.gitkeep tracked.
+.agent-comms/*
+!.agent-comms/.gitkeep
+
+# Python cache
+__pycache__/
+*.py[cod]
